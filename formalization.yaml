@@ -38,12 +38,15 @@ sources:
       - "George C. Rad"
       - "George C. Țurcaș"
     type: "paper"
-    id: "Unpublished manuscript, November 2026; not yet publicly available (an arXiv version is forthcoming)"
+    id: "arXiv:2611.20197"
     relationship: "formalizes"
     note: >-
-      The formalization follows the paper section by section and uses its theorem numbers. Its
-      authors are the authors of the paper. The manuscript is not yet public, so it cannot yet be
-      consulted independently; the statements formalized here are listed in README.md.
+      The formalization follows the paper section by section and uses the theorem numbers of its
+      arXiv version. Its authors are the authors of the paper. The supplement to the paper
+      (supplement.pdf in this repository) gives the certificate counts, works through the
+      eighteen-term example, and explains how to replay the Lean checks. The repository that the
+      paper cites, https://github.com/CiprianRad/Davenport_Project, has the same formalization
+      without the files made for Palomar.
     author_endorsement: "participated"
   - title: "A combinatorial problem on finite Abelian groups. I"
     authors: ["J. E. Olson"]

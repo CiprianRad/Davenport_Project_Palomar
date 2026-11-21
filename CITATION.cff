@@ -22,7 +22,7 @@ keywords:
   - zero-sum theory
   - Davenport constant
 preferred-citation:
-  type: unpublished
+  type: article
   title: Integral zero-sum incidence identities and Davenport constants in rank three
   authors:
     - given-names: Claudiu G.
@@ -32,4 +32,11 @@ preferred-citation:
     - given-names: George C.
       family-names: Țurcaș
   year: 2026
-  notes: Manuscript.
+  month: 11
+  journal: arXiv preprint
+  doi: 10.48550/arXiv.2611.20197
+  url: https://arxiv.org/abs/2611.20197
+  identifiers:
+    - type: other
+      value: arXiv:2611.20197
+      description: The arXiv identifier of the paper.
